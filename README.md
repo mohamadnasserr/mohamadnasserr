@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamad Nasser</h1>
 <h3 align="center">A passionate Computer Science Graduate</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Advanced Web Development**
 
 - 📫 How to reach me **mohamad.naser59@gmail.com**
 
