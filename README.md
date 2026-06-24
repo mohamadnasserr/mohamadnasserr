@@ -81,7 +81,7 @@ AI/ML monitoring workflow for handling data drift, file ingestion, prediction tr
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-nasser-97b6a7210/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:mohamad.naser59@gmail.com">
